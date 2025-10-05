@@ -1,7 +1,6 @@
 # 42 Piscine Projects
 
 **Author:** Dilanur Nigar Kaymak  
-**Last Updated:** 4 minutes ago  
 
 Bu repository, 42 Cursus projelerinin (C00–C06, Rush_00 ve Shell00) özetlerini ve ilerleme durumlarını içerir.
 
