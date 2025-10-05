@@ -1,27 +1,19 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_str_is_lowercase.c                              :+:      :+:    :+:   */
+/*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dkaymak <dkaymak@student.42istanbul.com.t  +#+  +:+       +#+        */
+/*   By: yturpcu <yturpcu@student.42istanbul.com.t  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/04/26 20:36:51 by dkaymak           #+#    #+#             */
-/*   Updated: 2025/04/26 20:49:07 by dkaymak          ###   ########.fr       */
+/*   Created: 2025/04/13 22:15:19 by yturpcu           #+#    #+#             */
+/*   Updated: 2025/04/13 22:15:24 by yturpcu          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
+void	rush(int x, int y);
 
-int ft_str_is_lowercase(char *str)
+int	main(void)
 {
-    int i;
-
-    i = 0;
-    while (str[i] != '\0')
-    {
-        if (!(str[i] >= 'a' && str[i] <= 'z'))
-            return (0);
-        i++;
-    }
-    return (1);
+	rush(5, 5);
+	return (0);
 }
