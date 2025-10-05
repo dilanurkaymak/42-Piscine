@@ -1,4 +1,4 @@
-# 42 Cursus Projects Overview
+# 42 Piscine Projects
 
 **Author:** Dilanur Nigar Kaymak  
 **Last Updated:** 4 minutes ago  
